@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18dfc7dd-f938-4d2d-ad6a-94852f19eacd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WSADILs4HY1JVy4QEyRF3m9dgr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fran.DESKTOP-8AAFGVA\PycharmProjects\crowd-density-estimation-master\untitled" />
+      <recent name="C:\Users\fran\PycharmProjects\untitled" />
+      <recent name="C:\Users\fran\PycharmProjects\untitled\venv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fran\PycharmProjects\untitled\samples" />
+      <recent name="C:\Users\fran\PycharmProjects\untitled" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.crossCorrelation">
+    <configuration name="crossCorrelation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crossCorrelation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="opencv example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/opencv example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.crossCorrelation" />
+        <item itemvalue="Python.opencv example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18dfc7dd-f938-4d2d-ad6a-94852f19eacd" name="Default Changelist" comment="" />
+      <created>1579132501081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579132501081</updated>
+      <workItem from="1579132503186" duration="2342000" />
+      <workItem from="1579188984547" duration="7631000" />
+      <workItem from="1579266183825" duration="1678000" />
+      <workItem from="1579703716509" duration="11667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579134026679">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="393" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579134026679" />
+    <state x="669" y="281" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579134691248">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="669" y="281" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579134691248" />
+    <state width="1579" height="562" key="GridCell.Tab.0.bottom" timestamp="1586966915279">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="562" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1586966915279" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1579725279169" />
+    <state width="1579" height="562" key="GridCell.Tab.0.center" timestamp="1586966915279">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="562" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1586966915279" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1579725279168" />
+    <state width="1579" height="562" key="GridCell.Tab.0.left" timestamp="1586966915279">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="562" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1586966915279" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1579725279167" />
+    <state width="1579" height="562" key="GridCell.Tab.0.right" timestamp="1586966915279">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="562" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1586966915279" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1579725279168" />
+    <state width="1579" height="291" key="GridCell.Tab.1.bottom" timestamp="1586909472961">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="291" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1586909472961" />
+    <state width="1579" height="291" key="GridCell.Tab.1.center" timestamp="1586909472961">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="291" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1586909472961" />
+    <state width="1579" height="291" key="GridCell.Tab.1.left" timestamp="1586909472961">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="291" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1586909472961" />
+    <state width="1579" height="291" key="GridCell.Tab.1.right" timestamp="1586909472961">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="291" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1586909472961" />
+    <state x="373" y="166" key="SettingsEditor" timestamp="1586895432413">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="373" y="166" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1586895432413" />
+    <state x="465" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1579133514319" />
+    <state x="551" y="300" key="com.intellij.ide.util.TipDialog" timestamp="1587565176955">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="551" y="300" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1587565176955" />
+    <state x="661" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1579703723945" />
+  </component>
+</project>

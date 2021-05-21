@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d89f2cac-f4de-4263-bcdb-f44f8708c9d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2/crossCorelation_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2/crossCorelation_v2.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bPJjL9rAKfTSo0OGFUjarYIQE3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/UI_3.lab" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fran.DESKTOP-8AAFGVA\Documents\crowd-density-estimation\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fran.DESKTOP-8AAFGVA\Documents\crowd-density-estimation\test" />
+      <recent name="C:\Users\fran.DESKTOP-8AAFGVA\Documents\crowd-density-estimation\v2" />
+      <recent name="C:\Users\fran\Documents\Kraken\crowd-density-estimation\untitled" />
+      <recent name="C:\Users\fran\Documents\Kraken\crowd-density-estimation\untitled\venv" />
+      <recent name="C:\Users\fran\Documents\Kraken\crowd-density-estimation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.crossCorelation_v2 (1)">
+    <configuration name="CCORRvsCOEFF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crowd-density-estimation-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/CCORRvsCOEFF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crossCorelation_v2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crowd-density-estimation-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/v2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/v2/crossCorelation_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crossCorelation_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crowd-density-estimation-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\fran.DESKTOP-8AAFGVA\Documents\crowd-density-estimation\v2\crossCorelation_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crossCorrelation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crowd-density-estimation-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/crossCorrelation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crossCorrelationBulk_max (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="crowd-density-estimation-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/untitled" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/untitled/crossCorrelationBulk_max.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.crossCorelation_v2 (1)" />
+        <item itemvalue="Python.CCORRvsCOEFF" />
+        <item itemvalue="Python.crossCorelation_v2" />
+        <item itemvalue="Python.crossCorrelationBulk_max (1)" />
+        <item itemvalue="Python.crossCorrelation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d89f2cac-f4de-4263-bcdb-f44f8708c9d8" name="Default Changelist" comment="" />
+      <created>1588527928589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588527928589</updated>
+      <workItem from="1588531162959" duration="11105000" />
+      <workItem from="1588877332821" duration="85000" />
+      <workItem from="1590421274691" duration="34000" />
+      <workItem from="1590421849169" duration="1909000" />
+      <workItem from="1590424302875" duration="453000" />
+      <workItem from="1590424757269" duration="18199000" />
+      <workItem from="1590443606363" duration="280000" />
+      <workItem from="1590443990996" duration="4092000" />
+      <workItem from="1590496967714" duration="777000" />
+      <workItem from="1590509043585" duration="274000" />
+      <workItem from="1591004999736" duration="90000" />
+      <workItem from="1591009189920" duration="1690000" />
+      <workItem from="1591023963191" duration="1489000" />
+      <workItem from="1591030480765" duration="20372000" />
+      <workItem from="1591104624531" duration="11120000" />
+      <workItem from="1591119732125" duration="659000" />
+      <workItem from="1591121484171" duration="50000" />
+      <workItem from="1591187812269" duration="31000" />
+    </task>
+    <task id="LOCAL-00001" summary="testirana razika između TM_CCOEFF_NORMED i TM_CCORR_NORMED">
+      <created>1591118188063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591118188064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testirana razika između TM_CCOEFF_NORMED i TM_CCORR_NORMED" />
+    <option name="LAST_COMMIT_MESSAGE" value="testirana razika između TM_CCOEFF_NORMED i TM_CCORR_NORMED" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="120" key="#crossCorrelation" timestamp="1590421876185">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="669" y="120" key="#crossCorrelation/0.0.1920.1050@0.0.1920.1050" timestamp="1590421876185" />
+    <state x="381" y="18" key="CommitChangelistDialog2" timestamp="1591118183375">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="381" y="18" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1591118183375" />
+    <state x="580" y="204" key="FileChooserDialogImpl" timestamp="1591187840624">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="580" y="204" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1591187840624" />
+    <state width="1557" height="286" key="GridCell.Tab.0.bottom" timestamp="1591121534135">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="286" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1591121534135" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590423759680" />
+    <state width="1557" height="286" key="GridCell.Tab.0.center" timestamp="1591121534135">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="286" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1591121534135" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590423759680" />
+    <state width="1557" height="286" key="GridCell.Tab.0.left" timestamp="1591121534135">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="286" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1591121534135" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590423759680" />
+    <state width="1557" height="286" key="GridCell.Tab.0.right" timestamp="1591121534135">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="286" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1591121534135" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590423759680" />
+    <state width="1557" height="291" key="GridCell.Tab.1.bottom" timestamp="1591118472372">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="291" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1591118472372" />
+    <state width="1557" height="291" key="GridCell.Tab.1.center" timestamp="1591118472372">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="291" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1591118472372" />
+    <state width="1557" height="291" key="GridCell.Tab.1.left" timestamp="1591118472372">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="291" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1591118472372" />
+    <state width="1557" height="291" key="GridCell.Tab.1.right" timestamp="1591118472372">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="291" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1591118472372" />
+    <state x="301" y="92" key="SettingsEditor" timestamp="1590424784838">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="301" y="92" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1590424784838" />
+    <state x="361" y="107" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1590421922863" />
+    <state x="681" y="266" width="540" height="524" key="StructurePopup" timestamp="1590422731691">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="681" y="266" width="540" height="524" key="StructurePopup/0.0.1920.1050@0.0.1920.1050" timestamp="1590422731691" />
+    <state x="392" y="182" key="Vcs.Push.Dialog.v2" timestamp="1591118290747">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="392" y="182" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1591118290747" />
+    <state x="495" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1589822054039">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="495" y="273" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1589822054039" />
+    <state x="609" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591047936728">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="609" y="363" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.900@0.0.1600.900" timestamp="1591047936728" />
+    <state x="519" y="195" width="672" height="582" key="search.everywhere.popup" timestamp="1591117899607">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="519" y="195" width="672" height="582" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1591117899607" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1588534832948" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/crowd_density_estimation$crossCorelation_v2.coverage" NAME="crossCorelation_v2 Coverage Results" MODIFIED="1591116877993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/crowd_density_estimation$crossCorrelationBulk.coverage" NAME="crossCorrelationBulk Coverage Results" MODIFIED="1590443667343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/crowd_density_estimation$crossCorrelationBulk_max__1_.coverage" NAME="crossCorrelationBulk_max (1) Coverage Results" MODIFIED="1591044767874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/crowd_density_estimation$crossCorelation_v2__1_.coverage" NAME="crossCorelation_v2 (1) Coverage Results" MODIFIED="1591121528395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/v2" />
+    <SUITE FILE_PATH="coverage/crowd_density_estimation$crossCorrelationTest.coverage" NAME="crossCorrelationTest Coverage Results" MODIFIED="1590443865224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/crowd_density_estimation$opencv_example.coverage" NAME="opencv example Coverage Results" MODIFIED="1591011337302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/crowd_density_estimation$crossCorrelation.coverage" NAME="crossCorrelation Coverage Results" MODIFIED="1591043839430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/untitled" />
+    <SUITE FILE_PATH="coverage/crowd_density_estimation$CCORRvsCOEFF.coverage" NAME="CCORRvsCOEFF Coverage Results" MODIFIED="1591119753208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+  </component>
+</project>
